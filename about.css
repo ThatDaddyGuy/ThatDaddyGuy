@@ -1,0 +1,13 @@
+*/stylesheet.css/ 
+body {
+    font: sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: #000;
+}
+
+h1 {
+    font-family: "Comic Sans MS", Sans-serif;
+    font-size: large;
+    color: red
+}
