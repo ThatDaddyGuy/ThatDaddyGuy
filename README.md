@@ -4,7 +4,6 @@
 - 💞️ I’m looking to meet like minded individuals and to be mentored.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...I'm a guy who likes to learn new things and wants to learn to code. 
-- ⚡ Fun fact: ...I'm a the big D in D/s 🔑 lifestyle wise.
 
 <!---
 ThatDaddyGuy/ThatDaddyGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
